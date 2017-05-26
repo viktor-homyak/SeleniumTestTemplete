@@ -1,4 +1,4 @@
-package com.test.jUnit.languabooks;
+package com.test.jUnit.tests;
 
 /**
  * Created by vhomyak on 17.05.2017.
@@ -6,8 +6,6 @@ package com.test.jUnit.languabooks;
 
 import org.junit.Test;
 import org.openqa.selenium.*;
-import org.openqa.selenium.support.ui.WebDriverWait;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 
 
 import com.test.jUnit.config.WebDriverConfig;
